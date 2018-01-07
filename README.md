@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/alleyful/study-fd3.svg?branch=master)](https://travis-ci.org/alleyful/study-fd3)
+
 # 깃 스터디
 ## h2
 ### h3
