@@ -1,0 +1,22 @@
+{
+  "name": "study-fd3",
+  "version": "1.0.0",
+  "description": "* list1 * list2",
+  "main": "123.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alleyful/study-fd3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alleyful/study-fd3/issues"
+  },
+  "homepage": "https://github.com/alleyful/study-fd3#readme",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
