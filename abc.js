@@ -2,3 +2,7 @@
 function a() {
 	alert('abc');
 }
+
+function output() {
+	return 'abc';
+}
